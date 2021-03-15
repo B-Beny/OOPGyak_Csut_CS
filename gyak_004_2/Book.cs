@@ -11,6 +11,21 @@ namespace gyak_004_2
         public int Year { get; set; }
         public int Price { get; set; }
 
+        public Book(string Title, string Author, int Year, int Price)
+        {
+            this.Title = Title;
+            this.Author = Author;
+            this.Year = Year;
+            this.Price = Price;
+        }
+
+        public Book(string Title, string Author) : this(Title, Author, DateTime.Now.Year, 2500) { }
+
+        public override string ToString()
+        {
+            return $"Cim: {Title}, Szerzo: {Author}, Kiadas Eve: {Year}, Ara: {Price}";
+        }
+
         public void PercentPriceInc(long percent)
         {
             Price = (int)(Price + Price * percent);
@@ -21,10 +36,10 @@ namespace gyak_004_2
         /// </summary>
         /// <returns>string</returns>
 
-        public string LinkStringOut()
+        /*public string LinkStringOut()
         {
             return $"Cim: {Title}, Szerzo: {Author}, Kiadas Eve: {Year}, Ara: {Price}";
-        }
+        }*/
 
     }
 }

@@ -6,14 +6,9 @@ namespace gyak_004_2
     {
         static void Main(string[] args)
         {
-            Book Book = new Book();
+            Book Book = new Book("Az utolso ut","Karcsi");
 
-            Book.Author = "Karcsi";
-            Book.Title = "Az utolso ut";
-            Book.Year = 2021;
-            Book.Price = 5099;
-
-            Console.WriteLine(Book.LinkStringOut());
+            Console.WriteLine(Book);
         }
     }
 }
