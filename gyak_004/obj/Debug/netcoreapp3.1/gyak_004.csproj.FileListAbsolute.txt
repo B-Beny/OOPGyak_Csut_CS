@@ -1,0 +1,13 @@
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\bin\Debug\netcoreapp3.1\gyak_004.exe
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\bin\Debug\netcoreapp3.1\gyak_004.deps.json
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\bin\Debug\netcoreapp3.1\gyak_004.runtimeconfig.json
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\bin\Debug\netcoreapp3.1\gyak_004.runtimeconfig.dev.json
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\bin\Debug\netcoreapp3.1\gyak_004.dll
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\bin\Debug\netcoreapp3.1\gyak_004.pdb
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\obj\Debug\netcoreapp3.1\gyak_004.csprojAssemblyReference.cache
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\obj\Debug\netcoreapp3.1\gyak_004.AssemblyInfoInputs.cache
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\obj\Debug\netcoreapp3.1\gyak_004.AssemblyInfo.cs
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\obj\Debug\netcoreapp3.1\gyak_004.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\obj\Debug\netcoreapp3.1\gyak_004.dll
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\obj\Debug\netcoreapp3.1\gyak_004.pdb
+E:\Visual Studio\Projects\ME-UNI\gyak_004\gyak_004\obj\Debug\netcoreapp3.1\gyak_004.genruntimeconfig.cache
